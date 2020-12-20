@@ -1,1 +1,2 @@
 # Catify
+EVERY IMAGE IS NOW MONIO
