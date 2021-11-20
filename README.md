@@ -1,2 +1,2 @@
 # Catify
-EVERY IMAGE IS NOW MONIO (Google Extension)
+EVERY IMAGE IS NOW MONITX (Google Extension)
